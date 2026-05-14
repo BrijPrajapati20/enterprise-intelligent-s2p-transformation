@@ -125,7 +125,7 @@ The future-state enterprise procurement ecosystem will include:
 
 ## Ariba Realm Hierarchy
 
-```text
+
 P1 - Global Parent Realm
 │
 ├── C1 - APAC Procurement Realm
@@ -133,7 +133,10 @@ P1 - Global Parent Realm
 └── C3 - Americas Procurement Realm
 
 ---
-**# 1.7 Procurement Scope**
+
+
+
+# 1.7 Procurement Scope
 
 The transformation program covers the complete enterprise Source-to-Pay lifecycle.
 
