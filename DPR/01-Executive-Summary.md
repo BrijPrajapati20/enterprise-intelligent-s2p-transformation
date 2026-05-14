@@ -132,8 +132,8 @@ P1 - Global Parent Realm
 ├── C2 - Europe Procurement Realm
 └── C3 - Americas Procurement Realm
 
-</>
-# 1.7 Procurement Scope
+---
+**# 1.7 Procurement Scope**
 
 The transformation program covers the complete enterprise Source-to-Pay lifecycle.
 
@@ -155,7 +155,7 @@ The transformation program covers the complete enterprise Source-to-Pay lifecycl
 
 ---
 
-# 1.8 Integration Scope
+**# 1.8 Integration Scope**
 
 The program includes enterprise-wide integration architecture supporting both SAP and non-SAP systems.
 
@@ -239,3 +239,6 @@ The NGCP Enterprise Intelligent Source-to-Pay Transformation Program represents 
 The proposed SAP-centric architecture establishes a scalable, secure, intelligent, and future-ready procurement ecosystem capable of supporting global procurement operations, multi-ERP coexistence, enterprise governance, and next-generation AI-enabled procurement experiences.
 
 This transformation program will serve as the foundation for NGCP’s long-term digital procurement strategy and enterprise operational excellence journey.
+
+ormation program will serve as the foundation for NGCP’s long-term digital procurement strategy and enterprise operational excellence journey.
+---
