@@ -132,6 +132,7 @@ P1 - Global Parent Realm
 ├── C2 - Europe Procurement Realm
 └── C3 - Americas Procurement Realm
 
+</>
 # 1.7 Procurement Scope
 
 The transformation program covers the complete enterprise Source-to-Pay lifecycle.
