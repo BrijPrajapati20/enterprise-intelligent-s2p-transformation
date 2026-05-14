@@ -147,7 +147,7 @@ The enterprise aims to:
         | SAP Integration Suite / PI-PO / APIs |
         +--------------------------------------+
 
-#📘** Functional Scope**
+📘** Functional Scope**
 
 The project covers the complete enterprise Source-to-Pay lifecycle.
 
